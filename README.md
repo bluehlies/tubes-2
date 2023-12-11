@@ -1,0 +1,1 @@
+This is a Travel web app project with [Next.js](https://nextjs.org) and [Supabase](https://supabase.com). I wrote the steps in the [following article](https://medium.com/@10969akmal/create-a-travel-app-with-react-and-supabase-ee47a866ae30)
